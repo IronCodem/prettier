@@ -5,7 +5,7 @@
 <p align="center">
   <em>
     JavaScript
-    · TypeScript
+    · TypeScript 
     · Flow
     · JSX
     · JSON
